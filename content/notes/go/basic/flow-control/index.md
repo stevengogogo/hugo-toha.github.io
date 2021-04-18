@@ -8,7 +8,7 @@ menu:
     parent: notes-go-basics
     weight: 30
 ---
-
+ 
 <!-- Condition -->
 {{< note title="Condition">}}
 
